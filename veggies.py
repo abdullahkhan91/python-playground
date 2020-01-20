@@ -1,4 +1,4 @@
-#replicated the code on my own after initially pair programming with Ryuichiro
+#By Ryuichiro and Abdullah
 
 import csv
 
